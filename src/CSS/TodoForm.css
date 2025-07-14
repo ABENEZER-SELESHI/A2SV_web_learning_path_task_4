@@ -1,0 +1,18 @@
+/* TodoForm.css */
+
+.inputForm {
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    align-items: center;
+    gap: 10px;
+    margin: 20px auto;
+    left: 50%;
+    /* max-width: 500px; */
+}
+/* 
+.inputField {
+  flex: 1;
+  max-width: 300px;
+} */
+
